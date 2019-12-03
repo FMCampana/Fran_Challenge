@@ -1,0 +1,5 @@
+.DS_STORE
+.vagrant
+.idea
+ansible.log
+playbook.retry
